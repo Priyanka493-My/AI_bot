@@ -1,0 +1,51 @@
+# PyCharm project files
+.idea/
+*.iml
+*.iws
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (if used)
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+*.pyd
+
+# Coverage reports
+.coverage
+htmlcov/
+.coverage.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore test outputs
+.pytest_cache/
+
+# Environment files
+*.env
+.env.local
